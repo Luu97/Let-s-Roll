@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlatformVelocity.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlatformVelocity.cs" Line="17" Column="7" />
+      <File FileName="Assets\Scripts\PlatformMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OnBottomTouched.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OnRightTouched.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformSize.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
